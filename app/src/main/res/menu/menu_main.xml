@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.scriptorient.baseconverter.Main3Activity">
+
+    <!--<item-->
+        <!--android:id="@+id/whyAds"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="Why Ads?"-->
+        <!--app:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="About"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/rateUs"
+        android:orderInCategory="100"
+        android:title="Rate Us"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:title="Share App"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/more"
+        android:orderInCategory="100"
+        android:title="More Apps"
+        app:showAsAction="never" />
+
+
+</menu>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Base Converter</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title">Convert Any Number To The Number Of Your Desired Base.</string>
+
+    <string-array name="bases">
+        <item>Base 2</item>
+        <item>Base 3</item>
+        <item>Base 4</item>
+        <item>Base 5</item>
+        <item>Base 6</item>
+        <item>Base 7</item>
+        <item>Base 8</item>
+        <item>Base 9</item>
+        <item>Base 10</item>
+        <item>Base 11</item>
+        <item>Base 12</item>
+        <item>Base 13</item>
+        <item>Base 14</item>
+        <item>Base 15</item>
+        <item>Base 16</item>
+    </string-array>
+</resources>

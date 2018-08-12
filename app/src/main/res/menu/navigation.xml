@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/custom_view"
+        android:icon="@drawable/ic_custom"
+        android:title="Custom" />
+
+    <item
+        android:id="@+id/common_bases"
+        android:icon="@drawable/ic_common"
+        android:title="Common" />
+
+    <item
+        android:id="@+id/all_bases"
+        android:icon="@drawable/ic_all_bases"
+        android:title="All" />
+
+</menu>
