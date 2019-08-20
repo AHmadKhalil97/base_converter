@@ -17,8 +17,13 @@
 
 ## Screenshots:
 
-<img src="Screenshots/Screenshot_1.jpeg" width="380" />
+### Common-bases Layout: 
+<img src="Screenshots/Screenshot_1.jpeg" width="380" />.
 
-<img src="Screenshots/Screenshot-2.jpeg" width="380" />
 
-<img src="Screenshots/Screenshot-3.jpeg" width="380" />
+### Custom-bases Layout:
+<img src="Screenshots/Screenshot-2.jpeg" width="380" />.
+
+
+### All-bases Layout:
+<img src="Screenshots/Screenshot-3.jpeg" width="380" />.
