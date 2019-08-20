@@ -15,8 +15,10 @@
 *	Press ‘Reset’ For New Input.
 *	That’s it! You Are Done.
 
-### Screenshots:
+## Screenshots:
 
-<img src="Screenshots/Screenshot_1.jpeg" />
-<img src="Screenshots/Screenshot-2.jpeg" />
-<img src="Screenshots/Screenshot-3.jpeg" />
+<img src="Screenshots/Screenshot_1.jpeg" width="380" />
+
+<img src="Screenshots/Screenshot-2.jpeg" width="380" />
+
+<img src="Screenshots/Screenshot-3.jpeg" width="380" />
